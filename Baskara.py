@@ -1,5 +1,5 @@
-#autor:Jean Jander
-#Date: 01.11.24
+#autor:Nelson Alves
+#Date: 05.11.2024
 #codigo: Formula de Baskara a,b,c
 
 #importando biblioteca matemática
